@@ -1,7 +1,7 @@
 displayName: Header Custom Rename Plugin
 type: middleware
 runtime: yaegi
-
+iconPath: .assets/icon.png
 import: github.com/gaborini/traefik-header-rename-plugin
 
 summary: 'Renames HTTP response headers'
