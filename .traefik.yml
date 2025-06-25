@@ -1,0 +1,12 @@
+displayName: Header Custom Rename Plugin
+type: middleware
+runtime: yaegi
+
+import: github.com/gaborini/traefik-header-rename-plugin
+
+summary: 'Renames HTTP response headers'
+
+testData:
+  renameData:
+    - existingHeaderName: "X-Old-Header"
+      newHeaderName: "x-new-header"
