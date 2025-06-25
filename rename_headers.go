@@ -1,4 +1,4 @@
-package traefik_custom_headers_plugin
+package traefik_rename_headers_plugin
 
 import (
 	"bufio"
