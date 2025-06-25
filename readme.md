@@ -13,8 +13,8 @@ pilot:
 experimental:
   plugins:
     renameHeaders:
-      modulename: "gitlab.com/traefik-custom-headers-plugin/traefik-custom-headers-plugin"
-      version: "v0.0.1"
+      modulename: "gitlab.com/traefik-header-rename-plugin"
+      version: "v1.0.0"
 ```
 
 ### Dynamic
